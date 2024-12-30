@@ -2,10 +2,10 @@
   <h1>
     ControlNet
 </div>
-
+<!-- 
 <div align=center>
   <img src="./asset/teaser.png" width="768"/>
-</div>
+</div> -->
 
 ## Description
 
